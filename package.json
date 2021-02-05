@@ -1,0 +1,14 @@
+{
+  "name": "shaniaupdate",
+  "version": "1.0.0",
+  "description": "updating shania",
+  "main": "shania.js",
+  "scripts": {
+    "test": "shania.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
